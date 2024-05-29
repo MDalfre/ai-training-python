@@ -1,0 +1,194 @@
+[
+  {
+    "text": "A compra foi fraudulenta e o cartão foi clonado.",
+    "category": "Fraude"
+  },
+  {
+    "text": "Estou em desacordo com a cobrança na minha fatura.",
+    "category": "Desacordo"
+  },
+  {
+    "text": "Meu carro foi roubado ontem à noite.",
+    "category": "Roubo"
+  },
+  {
+    "text": "A transação foi considerada fraude pelo banco.",
+    "category": "Fraude"
+  },
+  {
+    "text": "Há uma cobrança indevida na minha conta.",
+    "category": "Desacordo"
+  },
+  {
+    "text": "Roubaram minha bicicleta na frente de casa.",
+    "category": "Roubo"
+  },
+  {
+    "text": "Recebi uma mensagem suspeita sobre meu cartão.",
+    "category": "Fraude"
+  },
+  {
+    "text": "Não reconheço essa compra na minha fatura.",
+    "category": "Desacordo"
+  },
+  {
+    "text": "Alguém entrou em minha casa e roubou vários itens.",
+    "category": "Roubo"
+  },
+  {
+    "text": "Meu cartão foi usado sem minha autorização.",
+    "category": "Fraude"
+  },
+  {
+    "text": "Estão cobrando por um serviço que não contratei.",
+    "category": "Desacordo"
+  },
+  {
+    "text": "Perdi meu notebook em um assalto.",
+    "category": "Roubo"
+  },
+  {
+    "text": "Meu cartão foi bloqueado por suspeita de fraude.",
+    "category": "Fraude"
+  },
+  {
+    "text": "Há uma transação desconhecida no meu extrato.",
+    "category": "Desacordo"
+  },
+  {
+    "text": "Levaram meu relógio de dentro do meu carro.",
+    "category": "Roubo"
+  },
+  {
+    "text": "Detectei uma atividade fraudulenta na minha conta.",
+    "category": "Fraude"
+  },
+  {
+    "text": "Cobrança errada apareceu na minha fatura.",
+    "category": "Desacordo"
+  },
+  {
+    "text": "Invadiram minha casa e levaram eletrônicos.",
+    "category": "Roubo"
+  },
+  {
+    "text": "Recebi uma notificação de compra que não fiz.",
+    "category": "Fraude"
+  },
+  {
+    "text": "Minha conta foi invadida e fizeram uma compra.",
+    "category": "Fraude"
+  },
+  {
+    "text": "Tenho uma cobrança indevida no meu cartão.",
+    "category": "Desacordo"
+  },
+  {
+    "text": "Notifiquei uma transação suspeita ao meu banco.",
+    "category": "Fraude"
+  },
+  {
+    "text": "Cobrança duplicada na minha fatura do cartão.",
+    "category": "Desacordo"
+  },
+  {
+    "text": "Roubaram minha bolsa enquanto eu estava no mercado.",
+    "category": "Roubo"
+  },
+  {
+    "text": "Fui vítima de uma tentativa de phishing.",
+    "category": "Fraude"
+  },
+  {
+    "text": "Discrepância na minha fatura de telefone.",
+    "category": "Desacordo"
+  },
+  {
+    "text": "Levaram minha moto do estacionamento.",
+    "category": "Roubo"
+  },
+  {
+    "text": "Cartão de crédito clonado durante uma viagem.",
+    "category": "Fraude"
+  },
+  {
+    "text": "Cobrança inesperada de um serviço não utilizado.",
+    "category": "Desacordo"
+  },
+  {
+    "text": "Meu tablet foi roubado na escola.",
+    "category": "Roubo"
+  },
+  {
+    "text": "Transação não autorizada detectada no meu cartão.",
+    "category": "Fraude"
+  },
+  {
+    "text": "Desacordo com a empresa sobre a entrega de um produto.",
+    "category": "Desacordo"
+  },
+  {
+    "text": "Minha casa foi arrombada e roubaram joias.",
+    "category": "Roubo"
+  },
+  {
+    "text": "Tentaram acessar minha conta bancária sem permissão.",
+    "category": "Fraude"
+  },
+  {
+    "text": "Tenho uma discrepância na minha conta de luz.",
+    "category": "Desacordo"
+  },
+  {
+    "text": "Meu carro foi arrombado e levaram o rádio.",
+    "category": "Roubo"
+  },
+  {
+    "text": "Fizeram uma compra com meu cartão sem minha permissão.",
+    "category": "Fraude"
+  },
+  {
+    "text": "Estou contestando uma cobrança na minha conta.",
+    "category": "Desacordo"
+  },
+  {
+    "text": "Minha bicicleta foi roubada do estacionamento.",
+    "category": "Roubo"
+  },
+  {
+    "text": "Fraude detectada no uso do meu cartão de débito.",
+    "category": "Fraude"
+  },
+  {
+    "text": "Estou questionando uma cobrança na minha fatura.",
+    "category": "Desacordo"
+  },
+  {
+    "text": "Roubaram meu celular enquanto eu caminhava.",
+    "category": "Roubo"
+  },
+  {
+    "text": "Meu cartão foi clonado em uma viagem recente.",
+    "category": "Fraude"
+  },
+  {
+    "text": "Cobrança desconhecida apareceu no meu extrato bancário.",
+    "category": "Desacordo"
+  },
+  {
+    "text": "Roubaram minha mochila com documentos importantes.",
+    "category": "Roubo"
+  },
+  {
+    "text": "Houve uma tentativa de uso fraudulento do meu cartão.",
+    "category": "Fraude"
+  },
+  {
+    "text": "Estou em desacordo com uma taxa na minha conta.",
+    "category": "Desacordo"
+  },
+  {
+    "text": "Levaram meu notebook de dentro do carro.",
+    "category": "Roubo"
+  }
+]
